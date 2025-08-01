@@ -59,6 +59,7 @@ uploads/reels/*
 *.swp
 *.swo
 *~
+.h
 
 # OS generated files
 .DS_Store
